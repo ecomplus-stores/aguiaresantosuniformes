@@ -9,7 +9,8 @@
   "marketing_stripe": {
     "text": "5% de desconto para pagamento via Pix*",
     "link": "/promotion",
-    "background": "#040404"
+    "background": "#040404",
+    "color": "#ffffff"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
