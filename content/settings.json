@@ -1,26 +1,26 @@
 {
   "domain": "aguiaresantosuniformes.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#d9d9d9",
+  "primary_color": "#eeddde",
   "theme": {
-    "bootswatch": "_",
-    "custom": "clean-gray"
+    "bootswatch": "minty",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/aguiaresantosuniformes",
-  "logo": "/img/uploads/whatsapp-image-2024-02-17-at-23.07.53.jpeg",
+  "logo": "/img/uploads/design-sem-nome.png",
   "name": "Estilo Elida Pais ",
-  "short_name": "aguiaresantosuniformes",
+  "short_name": "Estilo Elida Pais ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/design-sem-nome.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#030303",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/design-sem-nome.png",
   "store_id": 51497,
-  "description": "aguiaresantosuniformes",
-  "large_icon": "/img/large-icon.png"
+  "description": "A Estilo Elida Pais nasceu com o propósito de valorizar os detalhes, trazendo peças atemporais, confortáveis, com modelagens perfeitas que exaltam a autoestima.",
+  "large_icon": "/img/uploads/design-sem-nome.png"
 }
