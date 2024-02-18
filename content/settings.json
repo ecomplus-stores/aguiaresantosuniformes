@@ -1,7 +1,7 @@
 {
   "domain": "aguiaresantosuniformes.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#b4b4b4",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
