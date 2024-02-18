@@ -19,16 +19,10 @@
   "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
+      {},
+      {}
     ],
     "phone_wpp": true,
-    "socials": true
+    "socials": false
   }
 }
