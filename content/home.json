@@ -35,6 +35,16 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/classico-e-atemporal.jpg",
+          "link": "https://aguiaresantosuniformes.netlify.app/conjunto",
+          "mobile_img": "/img/uploads/classico-e-atemporal.jpg"
+        }
+      ]
     }
   ]
 }
