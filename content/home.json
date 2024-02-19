@@ -43,6 +43,11 @@
           "img": "/img/uploads/classico-e-atemporal.jpg",
           "link": "https://aguiaresantosuniformes.netlify.app/conjunto",
           "mobile_img": "/img/uploads/classico-e-atemporal.jpg"
+        },
+        {
+          "img": "/img/uploads/classico-e-atemporal.png",
+          "mobile_img": "/img/uploads/classico-e-atemporal.png",
+          "link": "https://aguiaresantosuniformes.netlify.app/conjunto"
         }
       ]
     }
