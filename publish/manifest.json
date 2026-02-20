@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.3b3f73b1e9818bdaa71b8d3dd9f05846.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.15bbbabb97e8c0f2816defce62571427.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.969ee77452210783a2978e25aed0d453.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.aa126bad78528410e738c220f8c45093.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a252425961cebd93301642e875fa8b9b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Estilo Elida Pais ",
+  "short_name": "Estilo Elida Pais ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Estilo Elida Pais nasceu com o propósito de valorizar os detalhes, trazendo peças atemporais, confortáveis, com modelagens perfeitas que exaltam a autoestima.",
+  "background_color": "#ffffff",
+  "theme_color": "#b4b4b4"
+}
